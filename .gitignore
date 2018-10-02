@@ -1,2 +1,4 @@
 log.txt
 /node_modules
+/__pycache__
+flaskblogpkg/flaskblog/__pycache__/
