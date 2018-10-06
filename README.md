@@ -1,4 +1,4 @@
 Contains Sample Python Code for
-Blog
-Desktop Application
+Blog ,
+Desktop Application,
 CRUD
