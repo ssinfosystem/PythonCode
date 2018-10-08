@@ -1,4 +1,9 @@
-Contains Sample Python Code for
-Blog ,
-Desktop Application,
-CRUD
+# Sample Code for Python
+
+https://github.com/ssinfosystem/PythonCode
+
+## Local Setup:
+ 1. Blog
+ 2. Chatbot 
+
+
