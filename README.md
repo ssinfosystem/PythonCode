@@ -2,8 +2,8 @@
 
 https://github.com/ssinfosystem/PythonCode
 
-## Local Setup:
- 1. Blog
- 2. Chatbot 
+## Sample Includes:
+ 1. Blog Using Flask
+ 2. Chatbot using Chatterbot, Wikipedia, Flask
 
 
